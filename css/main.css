@@ -2,18 +2,13 @@
     min-height: 400px;
     background: transparent;
 }
-/*img {
-	width: 100%;
-	height: auto;
-}*/
 .center-vertical {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
-
 .projPic {
-	width: 250px;
+	width: 250px !important;
 	height: auto;
 	margin-bottom: 10px;
 }
