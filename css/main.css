@@ -11,3 +11,9 @@
 	align-items: center;
 	justify-content: center;
 }
+
+.proj-pic {
+	width: 250px;
+	height: auto;
+	margin-bottom: 10px;
+}
