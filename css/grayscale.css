@@ -272,6 +272,18 @@ a:focus {
   color: black;
   background-color: #8be631;
 }
+.btn-default-invert {
+  border: 1px solid #fff;
+  outline: none;
+  color: black;
+  background-color: #fff;
+}
+.btn-default-invert:hover,
+.btn-default-invert:focus {
+  border: 1px solid #8be631;
+  color: #8be631;
+  background-color: transparent;
+}
 ul.banner-social-buttons {
   margin-top: 0;
 }
