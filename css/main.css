@@ -12,3 +12,15 @@
 	height: auto;
 	margin-bottom: 10px;
 }
+.btn-default-invert {
+  border: 1px solid #fff;
+  outline: none;
+  color: black;
+  background-color: #fff;
+}
+.btn-default-invert:hover,
+.btn-default-invert:focus {
+  border: 1px solid #8be631;
+  color: #8be631;
+  background-color: transparent;
+}
